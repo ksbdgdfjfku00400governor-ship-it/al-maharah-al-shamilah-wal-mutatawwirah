@@ -1,0 +1,7 @@
+{
+  "version": "2.0",
+  "offline_by_default": true,
+  "allowed_resource_kinds": ["local"],
+  "lazy_loading": true,
+  "max_candidates": 10
+}
